@@ -21,4 +21,13 @@ def rndpw():
     print('\n' + rnd_line + rnd_del + rnd_num + rnd_line2)
 
 
-rndpw()
+def repeater():
+    i = 0
+    numpass = input("How many passwords would you like to create?\n")
+    numpass = int(numpass)
+    while i != numpass:
+        i += 1
+        rndpw()
+
+
+repeater()
