@@ -1,4 +1,4 @@
-pypassgen - Random, pronounceable password generator with different symbols for delimiters, and numbers.
+pypassgen - A completely random pronounceable passphrase generator with many options!
 Created 2018-11-25 By Justin Ball
 
 I was inspired to create this small project by macOS's password generator in the keyring access application.
