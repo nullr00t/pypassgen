@@ -6,7 +6,7 @@ english_strings = {"English", "english", 'eng', 'Eng', 'en', 'En', 'EN', 'ENG', 
 german_strings = {"GERMAN", 'german', 'ger', 'Ger'}
 print("This script can generate passphrases from 2 Languages.\n")
 print("English and German\n")
-option1 = input("What language would you like to use for your generation?\n")
+option1 = raw_input("What language would you like to use for your generation?\n")
 option1 = str(option1)
 
 
